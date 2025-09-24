@@ -1,0 +1,7 @@
+﻿User-agent: *
+Allow: /
+
+Sitemap: System.Text.RegularExpressions.MatchEvaluator/sitemap.xml
+
+
+
