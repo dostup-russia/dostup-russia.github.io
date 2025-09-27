@@ -5,132 +5,132 @@
     <link>System.Text.RegularExpressions.MatchEvaluator/</link>
     <description>Гайды по VPN, обходу блокировок и скачиванию видео (YouTube/VK/TG/TikTok, MP3).</description>
     <language>ru-RU</language>
-    <lastBuildDate>Fri, 26 Sep 2025 05:32:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Sep 2025 05:30:22 +0000</lastBuildDate>
     <generator>generate_rss.py</generator>
     <item>
       <title>Wi-Fi просит авторизацию (captive portal) — как войти и включить VPN</title>
       <link>System.Text.RegularExpressions.MatchEvaluator/guide/captive-portal-bypass-2025/</link>
       <guid>System.Text.RegularExpressions.MatchEvaluator/guide/captive-portal-bypass-2025/</guid>
-      <pubDate>Thu, 25 Sep 2025 06:36:56 +0000</pubDate>
+      <pubDate>Fri, 26 Sep 2025 06:35:19 +0000</pubDate>
       <description>Что делать, если Wi-Fi перекидывает на страницу входа и интернет не работает. Пошаговый алгоритм входа и последующее включение VPN.</description>
     </item>
     <item>
       <title>Encrypted ClientHello (ECH): где работает и как включить</title>
       <link>System.Text.RegularExpressions.MatchEvaluator/guide/encrypted-client-hello-ech-2025/</link>
       <guid>System.Text.RegularExpressions.MatchEvaluator/guide/encrypted-client-hello-ech-2025/</guid>
-      <pubDate>Thu, 25 Sep 2025 06:36:56 +0000</pubDate>
+      <pubDate>Fri, 26 Sep 2025 06:35:19 +0000</pubDate>
       <description>ECH скрывает домены от фильтрации на уровне TLS. Объясняем, где уже доступно и как включить.</description>
     </item>
     <item>
       <title>Genshin Impact: не коннектится/Network Error — что делать (2025)</title>
       <link>System.Text.RegularExpressions.MatchEvaluator/guide/genshin-network-error-2025/</link>
       <guid>System.Text.RegularExpressions.MatchEvaluator/guide/genshin-network-error-2025/</guid>
-      <pubDate>Thu, 25 Sep 2025 06:36:56 +0000</pubDate>
+      <pubDate>Fri, 26 Sep 2025 06:35:19 +0000</pubDate>
       <description>Лаги, сетевые ошибки, обновления не качаются — короткие решения, которые реально помогают.</description>
     </item>
     <item>
       <title>TP-Link: как настроить VPN/DoH и обойти блокировки (2025)</title>
       <link>System.Text.RegularExpressions.MatchEvaluator/guide/tplink-vpn-bypass-2025/</link>
       <guid>System.Text.RegularExpressions.MatchEvaluator/guide/tplink-vpn-bypass-2025/</guid>
-      <pubDate>Thu, 25 Sep 2025 06:36:56 +0000</pubDate>
+      <pubDate>Fri, 26 Sep 2025 06:35:19 +0000</pubDate>
       <description>Покрываем популярные модели: OpenVPN/WireGuard, DNS, частые ошибки и их исправления.</description>
     </item>
     <item>
       <title>Мобильный оператор блокирует VPN — решение для LTE/5G (2025)</title>
       <link>System.Text.RegularExpressions.MatchEvaluator/guide/mobile-operator-blocks-vpn-2025/</link>
       <guid>System.Text.RegularExpressions.MatchEvaluator/guide/mobile-operator-blocks-vpn-2025/</guid>
-      <pubDate>Thu, 25 Sep 2025 06:36:56 +0000</pubDate>
+      <pubDate>Fri, 26 Sep 2025 06:35:19 +0000</pubDate>
       <description>Туннель не поднимается, скорость падает, обрывы? Работающие настройки для сотовой сети.</description>
     </item>
     <item>
       <title>ERR_CONNECTION_RESET — причины и быстрые решения (2025)</title>
       <link>System.Text.RegularExpressions.MatchEvaluator/guide/fix-err-connection-reset-2025/</link>
       <guid>System.Text.RegularExpressions.MatchEvaluator/guide/fix-err-connection-reset-2025/</guid>
-      <pubDate>Thu, 25 Sep 2025 06:36:56 +0000</pubDate>
+      <pubDate>Fri, 26 Sep 2025 06:35:19 +0000</pubDate>
       <description>Сайты внезапно перестали открываться? Разбираем причины сброса соединения и даем пошаговые фиксы на ПК и телефоне.</description>
     </item>
     <item>
       <title>Маршрутизация на роутере: пускать через VPN только нужные сайты/приложения</title>
       <link>System.Text.RegularExpressions.MatchEvaluator/guide/router-vpn-policy-rules-2025/</link>
       <guid>System.Text.RegularExpressions.MatchEvaluator/guide/router-vpn-policy-rules-2025/</guid>
-      <pubDate>Thu, 25 Sep 2025 06:36:56 +0000</pubDate>
+      <pubDate>Fri, 26 Sep 2025 06:35:19 +0000</pubDate>
       <description>Политики по доменам и подсетям: удобный компромисс между скоростью и доступом.</description>
     </item>
     <item>
       <title>Split-tunneling в Windows: как пустить только нужные приложения через VPN</title>
       <link>System.Text.RegularExpressions.MatchEvaluator/guide/split-tunneling-windows-2025/</link>
       <guid>System.Text.RegularExpressions.MatchEvaluator/guide/split-tunneling-windows-2025/</guid>
-      <pubDate>Thu, 25 Sep 2025 06:36:56 +0000</pubDate>
+      <pubDate>Fri, 26 Sep 2025 06:35:19 +0000</pubDate>
       <description>Инструкция для клиентов и встроенных средств. Удобно для банков/локальных сервисов.</description>
     </item>
     <item>
       <title>IPv6 как способ обойти блокировки: включаем и проверяем</title>
       <link>System.Text.RegularExpressions.MatchEvaluator/guide/ipv6-enable-bypass-2025/</link>
       <guid>System.Text.RegularExpressions.MatchEvaluator/guide/ipv6-enable-bypass-2025/</guid>
-      <pubDate>Thu, 25 Sep 2025 06:36:56 +0000</pubDate>
+      <pubDate>Fri, 26 Sep 2025 06:35:19 +0000</pubDate>
       <description>Иногда IPv6 идёт по другому маршруту. Рассказываем, как включить и тестировать протокол.</description>
     </item>
     <item>
       <title>SNI-фильтрация: как обойти блок по домену (2025)</title>
       <link>System.Text.RegularExpressions.MatchEvaluator/guide/fix-sni-filtering-2025/</link>
       <guid>System.Text.RegularExpressions.MatchEvaluator/guide/fix-sni-filtering-2025/</guid>
-      <pubDate>Thu, 25 Sep 2025 06:36:56 +0000</pubDate>
+      <pubDate>Fri, 26 Sep 2025 06:35:19 +0000</pubDate>
       <description>Если сайт пингуется, но по домену не открывается — включаем обфускацию, TCP:443 и ECH/ESNI, даём реальные пресеты.</description>
     </item>
     <item>
       <title>Сброс DNS и сетевого стека: Windows/macOS/Android/iOS</title>
       <link>System.Text.RegularExpressions.MatchEvaluator/guide/dns-flush-reset-2025/</link>
       <guid>System.Text.RegularExpressions.MatchEvaluator/guide/dns-flush-reset-2025/</guid>
-      <pubDate>Thu, 25 Sep 2025 06:36:56 +0000</pubDate>
+      <pubDate>Fri, 26 Sep 2025 06:35:19 +0000</pubDate>
       <description>Быстрые команды и меню, которые оживляют «зависший» интернет, когда другие методы не помогли.</description>
     </item>
     <item>
       <title>OpenVPN через TCP:443 — «скрытый» режим для жёсткого DPI</title>
       <link>System.Text.RegularExpressions.MatchEvaluator/guide/openvpn-tcp443-setup-2025/</link>
       <guid>System.Text.RegularExpressions.MatchEvaluator/guide/openvpn-tcp443-setup-2025/</guid>
-      <pubDate>Thu, 25 Sep 2025 06:36:56 +0000</pubDate>
+      <pubDate>Fri, 26 Sep 2025 06:35:19 +0000</pubDate>
       <description>Когда UDP режут, TCP:443 спасает. Даем конфиг-рекомендации и ограничения по скорости/задержкам.</description>
     </item>
     <item>
       <title>Ошибка SSL/сертификата — что делать на Windows/macOS/Android/iOS</title>
       <link>System.Text.RegularExpressions.MatchEvaluator/guide/fix-ssl-certificate-error-2025/</link>
       <guid>System.Text.RegularExpressions.MatchEvaluator/guide/fix-ssl-certificate-error-2025/</guid>
-      <pubDate>Thu, 25 Sep 2025 06:36:56 +0000</pubDate>
+      <pubDate>Fri, 26 Sep 2025 06:35:19 +0000</pubDate>
       <description>NET::ERR_CERT_AUTHORITY_INVALID и похожие: почему это случается и как починить безопасно.</description>
     </item>
     <item>
       <title>Cloudflare WARP: быстрый обход и стабильность (установка и настройка)</title>
       <link>System.Text.RegularExpressions.MatchEvaluator/guide/cloudflare-warp-setup-2025/</link>
       <guid>System.Text.RegularExpressions.MatchEvaluator/guide/cloudflare-warp-setup-2025/</guid>
-      <pubDate>Thu, 25 Sep 2025 06:36:56 +0000</pubDate>
+      <pubDate>Fri, 26 Sep 2025 06:35:19 +0000</pubDate>
       <description>Бесплатный и простой клиент для базового обхода фильтрации. Плюсы, минусы, пресеты.</description>
     </item>
     <item>
       <title>Keenetic: настройка обхода блокировок — VPN, DoH, маршрутизация</title>
       <link>System.Text.RegularExpressions.MatchEvaluator/guide/keenetic-vpn-bypass-2025/</link>
       <guid>System.Text.RegularExpressions.MatchEvaluator/guide/keenetic-vpn-bypass-2025/</guid>
-      <pubDate>Thu, 25 Sep 2025 06:36:56 +0000</pubDate>
+      <pubDate>Fri, 26 Sep 2025 06:35:19 +0000</pubDate>
       <description>Готовые профили, MTU, политики маршрутов по доменам. Пошаговая настройка на прошивке KeeneticOS.</description>
     </item>
     <item>
       <title>WireGuard рвётся или медленный? MTU/MSS-fix за 5 минут</title>
       <link>System.Text.RegularExpressions.MatchEvaluator/guide/wireguard-mtu-fix-2025/</link>
       <guid>System.Text.RegularExpressions.MatchEvaluator/guide/wireguard-mtu-fix-2025/</guid>
-      <pubDate>Thu, 25 Sep 2025 06:36:56 +0000</pubDate>
+      <pubDate>Fri, 26 Sep 2025 06:35:19 +0000</pubDate>
       <description>Подбор MTU, настройка MSS, тесты ping/trace — избавляемся от обрывов и узких мест.</description>
     </item>
     <item>
       <title>DoH/DoT: включаем защищённый DNS в браузере и системе (2025)</title>
       <link>System.Text.RegularExpressions.MatchEvaluator/guide/browser-doh-setup-2025/</link>
       <guid>System.Text.RegularExpressions.MatchEvaluator/guide/browser-doh-setup-2025/</guid>
-      <pubDate>Thu, 25 Sep 2025 06:36:56 +0000</pubDate>
+      <pubDate>Fri, 26 Sep 2025 06:35:19 +0000</pubDate>
       <description>Подробная инструкция для Chrome, Firefox, Android и iOS. Зачем это нужно и чего ожидать.</description>
     </item>
     <item>
       <title>HTTP/3 (QUIC) мешает открывать сайты? Отключаем временно</title>
       <link>System.Text.RegularExpressions.MatchEvaluator/guide/http3-quic-off-2025/</link>
       <guid>System.Text.RegularExpressions.MatchEvaluator/guide/http3-quic-off-2025/</guid>
-      <pubDate>Thu, 25 Sep 2025 06:36:56 +0000</pubDate>
+      <pubDate>Fri, 26 Sep 2025 06:35:19 +0000</pubDate>
       <description>Иногда QUIC ломается на маршруте/фильтрах. Показываем, как его отключить и проверить эффект.</description>
     </item>
     <item>
